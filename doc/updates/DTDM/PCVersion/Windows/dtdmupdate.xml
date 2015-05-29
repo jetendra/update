@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.2.0</versionNumber> 
+   <versionNumber>0.2.1</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
-   <description>Added support to add/create download Queue.</description> 
+   <description>Added support to download files from added Queue.</description> 
 </update>
