@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.2.8</versionNumber> 
+   <versionNumber>0.2.9</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
-   <description>Added support to encrypt the intermediate loaded bytes to recover the data as fresh download with save download functionality.</description> 
+   <description>Updated download speed string.</description> 
 </update>
