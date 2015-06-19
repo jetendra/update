@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.2.9</versionNumber> 
+   <versionNumber>0.3.0</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
-   <description>Updated download speed string.</description> 
+   <description>Updated to save download progress on window closing.</description> 
 </update>
