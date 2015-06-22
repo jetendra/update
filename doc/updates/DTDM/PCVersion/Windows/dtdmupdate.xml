@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.3.1</versionNumber> 
+   <versionNumber>0.3.4</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
-   <description>Updated to save download with Queue download progress on window closing.</description> 
+   <description>Added functionality to set the download as a background process.</description> 
 </update>
