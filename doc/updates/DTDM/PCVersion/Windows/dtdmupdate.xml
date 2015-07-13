@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.4.0</versionNumber> 
+   <versionNumber>0.4.1</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
    <description> 
 	<![CDATA[ 
-		* Added support of Net speed for Queue Download.
-		* Added Error handler with remove queue.
-		* Updated UX for Add Queue and View Queue UI.
-		* Updated UX for History UI.
+		* Updated for AccessManager SWC version 3.
 		]]>
 	</description> 
 </update>
