@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
+   <versionNumber>0.4.2</versionNumber> 
+   <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Mac/DTDM.exe</url> 
+   <description> 
+	<![CDATA[ 
+		* Updated for AccessManager SWC version 4.
+		]]>
+	</description> 
+</update>

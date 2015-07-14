@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?> 
- <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0"> 
-   <versionNumber>0.2.0</versionNumber> 
-   <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
-   <description>This is the latest version of the Sample application.</description> 
+ <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
+   <versionNumber>0.4.2</versionNumber> 
+   <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Linux/DTDM.air</url> 
+  <description> 
+	<![CDATA[ 
+		* Updated for AccessManager SWC version 4.
+		]]>
+	</description>
 </update>
