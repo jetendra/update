@@ -4,8 +4,7 @@
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.exe</url> 
    <description> 
 	<![CDATA[ 
-		* Updated for AccessManager SWC version 4.
-		* Updated for application updater.
+		* Updated for intermediate download save mechanism.
 		]]>
 	</description> 
 </update>
