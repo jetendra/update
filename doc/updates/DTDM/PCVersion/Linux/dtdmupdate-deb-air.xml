@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
    <versionNumber>0.5.0</versionNumber> 
-   <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Mac/DTDM.dmg</url> 
+   <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Linux/DTDM-deb.air</url> 
    <description> 
 	<![CDATA[ 
 		* Updated for Queue process download..
