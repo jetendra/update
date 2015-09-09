@@ -1,18 +1,18 @@
-License Terms
+DTDM General Terms of Use
 
-These terms are for DTDM application downloaded from the dtdm.in.
-
-By downloading DTDM application installers from dtdm.in you are agreeing to the following terms of use.
-
+These terms are for DTDM application downloaded from the http://dtdm.in or from any other distributors/distribution-option.
+By using DTDM application installers available at http://dtdm.in or from any other distribution, you are agreeing to the following terms of use.
 1.	DTDM application is licensed on per person, per platform and per device basis. Each user and each platform/device agreeing term mentioned in this document. 
-2.	You are responsible for your use of the software, for any content you download, and for any consequences thereof. 
+2.	You are responsible for your use of the software, for any content you download, and for any consequences thereof. It is your responsibility to make sure your use of the application is legal where you use them. 
 3.	Software developers, distributors or associated contributors are not responsible for any loss due to downloading, installing or using DTDM application.
-4.	DTDM application is always evolving and the form and nature of the application    may change from time to time without prior notice to you. In addition, DTDM application may stop (permanently or temporarily) providing the functionality (or any features within the functionality) to you or to users generally and may not be able to provide you with prior notice. We also retain the right to create limits on use at our sole discretion at any time without prior notice to you.  
-5.	This application has an inbuilt tracking and error management module which will/may submit content of application to our server, and the distributor is not responsible for any use of this type of content.
-6.	All legal activities related to this application will be executed in Delhi (India) area of Judiciary.
-7.	At any level the decision of application owner is final.
-8.	These Terms are the entire and exclusive agreement between dtdm.in and its DTDM application user and these Terms supersede and replace any prior agreements between dtdm.in and DTDM application users.
-9.	Dtdm.in may revise these Terms from time to time; the most current version will always be available at same downloaded location.
-10.	DTDM application are maintained and powered by devtrip.com developers and contributors. If you have any questions about these Terms, please contact us at devtrip.dev@gmail.com 
+4.	DTDM application is always evolving and the form and nature of the application    may change from time to time without prior notice to you. In addition, DTDM application may stop (permanently or temporarily) providing the functionality (or any features within the functionality) to you and may not be able to provide you with prior notice. We may modify, update, or discontinue the application (including any of their portions or features) at any time without liability to you or anyone else. We also retain the right to create limits on use at our sole discretion at any time without prior notice to you.
+5.	You must pay any applicable taxes, and any applicable third-party fee (including, for example ISP charges, data plan charges, credit card fees, foreign exchange fees, etc). We are not responsible for these fees. We may take steps to collect the fees you owe us. You are responsible for all related collection costs and expenses.
+6.	 You may stop using the application at any time; un-installation of application does not relieve you of any obligation to pay any outstanding fees.
+7.	This application has an inbuilt tracking and error management module which will/may submit content of application to a third party server, and the distributor is not responsible for any use of this type of content.
+8.	All legal activities related to this application will be executed in Delhi (India) area of Judiciary.
+9.	At any level the decision of application owner is final.
+10.	These Terms are the entire and exclusive agreement between http://dtdm.in and its DTDM application user and these terms supersede and replace any prior agreements between http://dtdm.in and DTDM application users.
+11.	http://dtdm.in may revise these terms from time to time; the most current version will always be available at same download location. And any other previous agreement of use, superseded by the content of this document. 
+12.	DTDM application are maintained and powered by devtrip.com developers and contributors. If you have any questions about these terms, please contact us at devtrip.dev@gmail.com 
 
-© www.devtrip.com 2012-2015
+¬¬© www.devtrip.com 2012-2015
