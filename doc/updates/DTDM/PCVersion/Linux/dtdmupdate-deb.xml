@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.5.4</versionNumber> 
+   <versionNumber>0.5.5</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Linux/DTDM.deb</url> 
    <description> 
 	<![CDATA[ 
 		* Updated to remove the log/event tracking functionality without user permission..
 		* Implemented the error tracker externally with various states and functionalities.
 		* Added popup to ask to submit logs to tracking server..
+		* Updated access manager issue.
 		* If an error occured while update, Please download the files directly from http://dtdm.in, and install.
 		]]>
 	</description> 
