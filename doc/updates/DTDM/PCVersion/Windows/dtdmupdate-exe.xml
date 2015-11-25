@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.5.6</versionNumber> 
+   <versionNumber>0.5.7</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.exe</url> 
    <description> 
 	<![CDATA[ 
-		* Updated to differentiate between resumable file formats and disable pause and save buttons accordingly.
+		* Updated to differentiate between resumable file formats and disable pause and save buttons accordingly with standalone+Queue download.
 		* Updated to remove the log/event tracking functionality without user permission..
 		* Implemented the error tracker externally with various states and functionalities.
 		* Added popup to ask to submit logs to tracking server..
