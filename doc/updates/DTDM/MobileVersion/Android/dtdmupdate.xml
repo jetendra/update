@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.1.4</versionNumber> 
+   <versionNumber>0.1.5</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/MobileVersion/Android/DTDM.apk</url> 
    <description> 
 	<![CDATA[ 
 		* Update to save current download on closing the app.
 		* Updated for Registration screen.
-		* Updated to support torrent and FTP protocols..
-		* Updated to differentiate between resumable file formats and disable pause and save buttons accordingly with standalone+Queue download.
-		* If an error occured while update, Please download the files directly from http://dtdm.in, and install.
 		]]>
 	</description> 
 </update>
