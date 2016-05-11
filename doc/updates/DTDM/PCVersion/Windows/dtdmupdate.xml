@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.6.3</versionNumber> 
+   <versionNumber>0.6.4</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
    <description> 
 	<![CDATA[ 
+		* Support for updater UI with not supported platform.
 		* Updated for payment method for INR..
 		* Updated to process parameterised download url.
 		* Update to save current download on closing the app.
