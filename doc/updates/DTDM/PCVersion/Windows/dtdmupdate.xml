@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.6.8</versionNumber> 
+   <versionNumber>0.6.9</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
    <description> 
 	<![CDATA[ 
-		* Support for saving display state.
-		* Support for updater UI with not supported platform.
-		* Updated for payment method for INR..
-		* Updated to process parameterised download url.
-		* Update to save current download on closing the app.
-		* Updated for Registration screen.
-		* Updated to support torrent and FTP protocols..
-		* Updated to differentiate between resumable file formats and disable pause and save buttons accordingly with standalone+Queue download.
-		* If an error occured while update, Please download the files directly from http://dtdm.in, and install.
+		* Added invoke mechanism to handle torrent files.
+		* Updates for dropdown menu with web,ftp and torrent pages..
+		* Auto add copied url with download page.
 		]]>
 	</description> 
 </update>
