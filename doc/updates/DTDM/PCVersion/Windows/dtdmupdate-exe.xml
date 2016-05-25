@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.6.9</versionNumber> 
+   <versionNumber>0.7.0</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.exe</url> 
    <description> 
 	<![CDATA[ 
 		* Added invoke mechanism to handle torrent files.
 		* Updates for dropdown menu with web,ftp and torrent pages..
 		* Auto add copied url with download page.
+		* Updated designe elements.
 		]]>
 	</description> 
 </update>
