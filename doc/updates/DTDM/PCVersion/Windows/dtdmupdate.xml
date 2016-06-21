@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.7.4</versionNumber> 
+   <versionNumber>0.7.5</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
    <description> 
 	<![CDATA[ 
@@ -10,6 +10,7 @@
 		* Updates for dropdown menu with web,ftp and torrent pages..
 		* Auto add copied url with download page.
 		* Updated designe elements.
+		* If an error occured while update, Please download the files directly from http://dtdm.in, and install.
 		]]>
 	</description> 
 </update>
