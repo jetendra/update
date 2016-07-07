@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.2.0</versionNumber> 
+   <versionNumber>0.2.8</versionNumber> 
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/MobileVersion/Android/DTDM-native.apk</url> 
    <description> 
 	<![CDATA[ 
+		* Updated to auto invoked on click of downloadable link.
 		* Update to save current download on closing the app.
 		* Updated for Registration screen.
 		]]>

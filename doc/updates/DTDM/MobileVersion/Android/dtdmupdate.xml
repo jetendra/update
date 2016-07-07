@@ -4,6 +4,7 @@
    <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/MobileVersion/Android/DTDM.apk</url> 
    <description> 
 	<![CDATA[ 
+		* Updated to auto invoked on click of downloadable link.
 		* Updated for first time installation.
 		* Update to save current download on closing the app.
 		* Updated for Registration screen.
