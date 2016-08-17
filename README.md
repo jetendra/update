@@ -28,7 +28,7 @@ It has normal basic configuration to integrate it with AIR based app.
 
 #### Add SWC
 
-Just need to copy the SWC and pest in you Flex lib package.
+Just need to copy the SWC and paste in you Flex lib package.
 
 #### Initiate Access Manager
 
