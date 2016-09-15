@@ -16,8 +16,6 @@ It provide following packages for rich usability of devtrip download manager app
 
 Download **DTDM.dmg** to use native installer with your Mac system.
 
->`[TBD - Need to install and test the app.. Report the issue at devtrip.dev@gmail.com]`
-
 #### air Installer
 
 Download **DTDM.air** to use AIR based installer with your system.
