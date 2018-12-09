@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
    <versionNumber>0.8.1</versionNumber> 
-   <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
+   <url>https://cdn.jsdelivr.net/gh/jetendra/update@master/doc/updates/DTDM/PCVersion/Windows/DTDM.air</url> 
    <description> 
 	<![CDATA[ 
 		* Added app status view on main page.
