@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.8.5</versionNumber>
+   <versionNumber>0.8.6</versionNumber>
    <url>https://cdn.jsdelivr.net/gh/jetendra/update@master/doc/updates/DTDM/PCVersion/Mac/DTDM.dmg</url> 
    <description> 
 	<![CDATA[ 
