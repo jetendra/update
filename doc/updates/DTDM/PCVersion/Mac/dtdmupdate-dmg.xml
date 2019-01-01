@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.8.6</versionNumber>
-   <url>https://cdn.jsdelivr.net/gh/jetendra/update@master/doc/updates/DTDM/PCVersion/Mac/DTDM.dmg</url> 
+   <versionNumber>0.8.7</versionNumber>
+   <url>https://github.com/jetendra/update/raw/master/doc/updates/DTDM/PCVersion/Mac/DTDM.dmg</url> 
    <description> 
 	<![CDATA[ 
 		* Updated to differentiate between resumable file formats and disable pause and save buttons accordingly with standalone+Queue download.
