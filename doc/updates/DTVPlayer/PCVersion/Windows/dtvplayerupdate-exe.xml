@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.0.4</versionNumber> 
+   <versionNumber>0.0.5</versionNumber> 
    <url>https://github.com/jetendra/update/raw/master/doc/updates/DTVPlayer/PCVersion/Windows/DTVPlayer.exe</url> 
    <description> 
 	<![CDATA[ 
