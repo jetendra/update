@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.0.2</versionNumber> 
+   <versionNumber>0.0.4</versionNumber> 
    <url>https://github.com/jetendra/update/raw/master/doc/updates/DTVPlayer/PCVersion/Windows/DTVPlayer.air</url> 
    <description> 
 	<![CDATA[ 
