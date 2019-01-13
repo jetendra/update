@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <update> 
+   <versionNumber>0.9.2</versionNumber> 
+   <url>https://github.com/jetendra/update/raw/master/doc/updates/DTSinglePlayerGames/PCVersion/Windows/DTSinglePlayerGames.exe</url> 
+   <description> 
+	<![CDATA[ 
+		* Added app status view on main page.
+		* Added first time installation tracking.
+		* Added invoke mechanism to handle torrent files.
+		* Updates for file save mechanism..
+		* Updates for dropdown menu with web,ftp and torrent pages..
+		* Auto add copied url with download page.
+		* Updated designe elements.
+		* If an error occured while update, Please download the files directly from http://www.devtrip.com, and install.
+		]]>
+	</description> 
+</update>
