@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <update> 
+   <versionNumber>0.0.5</versionNumber> 
+   <url>https://github.com/jetendra/update/raw/master/doc/updates/DTVPlayer/PCVersion/Mac/DTVPlayer.dmg</url> 
+   <description> 
+	<![CDATA[ 
+		* Added support for mp4 files.
+		* Able to save the play list.
+		* Able to play from web, you-tube and vemo without opening any browser.
+		* Updated designe elements.
+		* If an error occured while update, Please download the files directly from http://www.devtrip.com, and install.
+		]]>
+	</description> 
+</update>
