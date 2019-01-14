@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.1.2</versionNumber> 
+   <versionNumber>0.2.2</versionNumber> 
    <url>https://github.com/jetendra/update/raw/master/doc/updates/DTSinglePlayerGames/PCVersion/Windows/DTSinglePlayerGames.exe</url> 
    <description> 
 	<![CDATA[ 
 		* Updated for cheat cases with path finder game.
+		* Removed coming soon games.
 		* If an error occured while update, Please download the files directly from http://www.devtrip.com, and install.
 		]]>
 	</description> 
