@@ -2,7 +2,7 @@ DTDM
 © www.devtrip.com 2012-2016
 *** END USER LICENSE AGREEMENT ***
 IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
-These terms are for DTDM application downloaded from the http://dtdm.in or from any other distributors/distribution-option.
+These terms are for DTDM application downloaded from the http://www.devtrip.com or from any other distributors/distribution-option.
 1. LICENSE
 
 1.1 - By receiving, opening the file package, and/or using DTDM ("Software") containing this software, you agree that this End User License Agreement (EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.
@@ -13,7 +13,7 @@ These terms are for DTDM application downloaded from the http://dtdm.in or from 
 
 1.4 - If you do not agree to be bound by this agreement, remove DTDM from your computer now and, if applicable, promptly return to DTDM-Developer by mail (@ - dtdm.app@gmail.com) any copies of DTDM and related documentation and packaging in your possession.
 
-1.5 - By using DTDM application installers available at http://dtdm.in or from any other distribution, you are agreeing to this term of use ( EULA ).
+1.5 - By using DTDM application installers available at http://www.devtrip.com or from any other distribution, you are agreeing to this term of use ( EULA ).
 
 
 2. DISTRIBUTION
@@ -95,4 +95,4 @@ THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES
 You agree that DTDM-Developer may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to DTDM,  DTDM-Developer may also use this information to provide notices to you which may be of use or interest to you.
 
 6. ABBREVIATION USED 
-DTDM implies devtrip download manager download from http://dtdm.in or received from any other distribution partner. DTDM-Developer includes main programmer, developer, and creator [Kavindra Kumar Dubey]. For more information related to this EULA please email us at dtdm.app@gmail.com . 
+DTDM implies devtrip download manager download from http://www.devtrip.com or received from any other distribution partner. DTDM-Developer includes main programmer, developer, and creator [Kavindra Kumar Dubey]. For more information related to this EULA please email us at dtdm.app@gmail.com . 

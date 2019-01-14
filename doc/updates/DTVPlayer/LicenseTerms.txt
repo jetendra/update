@@ -7,21 +7,21 @@ These terms are for DTVPlayer application downloaded from the http://www.devtrip
 
 1.1 - By receiving, opening the file package, and/or using DTVPlayer ("Software") containing this software, you agree that this End User License Agreement (EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.
 
-1.2 - Unless you have a different license agreement signed by DTDM-Developer your use of DTVPlayer indicates your acceptance of this license agreement and warranty.
+1.2 - Unless you have a different license agreement signed by DTVPlayer-Developer your use of DTVPlayer indicates your acceptance of this license agreement and warranty.
 
-1.3 - Subject to the terms of this Agreement, DTDM-Developer grants to you a limited, non-exclusive, non-transferable license, without right to sub-license, to use DTVPlayer in accordance with this Agreement and any other written agreement with DTDM-Developer. DTDM-Developer does not transfer the title of DTVPlayer to you; the license granted to you is not a sale. This agreement is a binding legal agreement between DTDM-Developer and the purchasers or users of DTDM.
+1.3 - Subject to the terms of this Agreement, DTVPlayer-Developer grants to you a limited, non-exclusive, non-transferable license, without right to sub-license, to use DTVPlayer in accordance with this Agreement and any other written agreement with DTVPlayer-Developer. DTVPlayer-Developer does not transfer the title of DTVPlayer to you; the license granted to you is not a sale. This agreement is a binding legal agreement between DTVPlayer-Developer and the purchasers or users of DTVPlayer.
 
-1.4 - If you do not agree to be bound by this agreement, remove DTVPlayer from your computer now and, if applicable, promptly return to DTDM-Developer by mail (@ - dtdm.app@gmail.com) any copies of DTVPlayer and related documentation and packaging in your possession.
+1.4 - If you do not agree to be bound by this agreement, remove DTVPlayer from your computer now and, if applicable, promptly return to DTVPlayer-Developer by mail (@ - devtrip.dev@gmail.com) any copies of DTVPlayer and related documentation and packaging in your possession.
 
 1.5 - By using DTVPlayer application installers available at http://www.devtrip.com or from any other distribution, you are agreeing to this term of use ( EULA ).
 
 
 2. DISTRIBUTION
-DTVPlayer and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred or sub-licensed in whole or in part except that you may make one copy for archive purposes only. For information about redistribution of DTVPlayer contact DTDM-Developer by mail (@ - dtdm.app@gmail.com).
+DTVPlayer and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred or sub-licensed in whole or in part except that you may make one copy for archive purposes only. For information about redistribution of DTVPlayer contact DTVPlayer-Developer by mail (@ - devtrip.dev@gmail.com).
 3. USER AGREEMENT
 3.1 - Use
 
-3.1.1 - Your license to use DTVPlayer is limited to the number of licenses purchased by you. You shall not allow others to - use, copy or evaluate copies of DTDM.
+3.1.1 - Your license to use DTVPlayer is limited to the number of licenses purchased by you. You shall not allow others to - use, copy or evaluate copies of DTVPlayer.
 
 3.1.2 - DTVPlayer application is licensed on per person, per platform and per device basis. Each user and each platform/device agreeing term mentioned in this document. 
 
@@ -42,9 +42,9 @@ DTVPlayer and the license herein granted shall not be copied, shared, distribute
 
 3.1.11 - At any level the decision of application owner is final.
 
-3.1.12 - These Terms are the entire and exclusive agreement between DTDM-Developer and its DTVPlayer application user and these terms supersede and replace any prior agreements between DTDM-Developer and DTVPlayer application users.
+3.1.12 - These Terms are the entire and exclusive agreement between DTVPlayer-Developer and its DTVPlayer application user and these terms supersede and replace any prior agreements between DTVPlayer-Developer and DTVPlayer application users.
 
-3.1.13 – DTDM-Developer may revise these terms from time to time; the most current version will always be available at same download location. And any other previous agreement of use, superseded by the content of this document.
+3.1.13 – DTVPlayer-Developer may revise these terms from time to time; the most current version will always be available at same download location. And any other previous agreement of use, superseded by the content of this document.
 
 3.1.14 - DTVPlayer application are maintained and powered by devtrip.com developers and contributors. If you have any questions about these terms, please contact us at devtrip.dev@gmail.com 
 
@@ -55,28 +55,28 @@ DTVPlayer and the license herein granted shall not be copied, shared, distribute
 
 3.2.2 - Each licensed copy of DTVPlayer may be used on one single computer location by one user. Use of DTVPlayer means that you have loaded, installed, or run DTVPlayer on a computer or similar device. If you install DTVPlayer onto a multi-user platform, server or network, each and every individual user of DTVPlayer must be licensed separately.
 
-3.2.3 - You may make one copy of DTVPlayer for backup purposes, providing you only have one copy installed on one computer being used by one person. Other users may not use your copy of DTDM. The assignment, sublicense, networking, sale, or distribution of copies of DTVPlayer is strictly forbidden, without the prior written consent of DTDM-Developer. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of DTDM. If any person other than yourself uses DTVPlayer registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation!
+3.2.3 - You may make one copy of DTVPlayer for backup purposes, providing you only have one copy installed on one computer being used by one person. Other users may not use your copy of DTVPlayer. The assignment, sublicense, networking, sale, or distribution of copies of DTVPlayer is strictly forbidden, without the prior written consent of DTVPlayer-Developer. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of DTVPlayer. If any person other than yourself uses DTVPlayer registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation!
 
 3.3 Copyright Restriction
 
-3.3.1 - This Software contains copyrighted material, trade secrets and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble or decompile DTDM. Nor can you create any derivative works or other works that are based upon or derived from DTVPlayer in whole or in part.
+3.3.1 - This Software contains copyrighted material, trade secrets and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble or decompile DTVPlayer. Nor can you create any derivative works or other works that are based upon or derived from DTVPlayer in whole or in part.
 
-3.3.2 - DTDM-Developer name, logo and graphics file that represents DTVPlayer shall not be used in any way to promote products developed with DTDM. DTDM-Developer retains sole and exclusive ownership of all right, title and interest in and to DTVPlayer and all Intellectual Property rights relating thereto.
+3.3.2 - DTVPlayer-Developer name, logo and graphics file that represents DTVPlayer shall not be used in any way to promote products developed with DTVPlayer. DTVPlayer-Developer retains sole and exclusive ownership of all right, title and interest in and to DTVPlayer and all Intellectual Property rights relating thereto.
 
-3.3.3 - Copyright law and international copyright treaty provisions protect all parts of DTDM, products and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Kavindra Kumar Dubey.
+3.3.3 - Copyright law and international copyright treaty provisions protect all parts of DTVPlayer, products and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Kavindra Kumar Dubey.
 
 3.4 Limitation of Responsibility
 
-3.4.1 - You will indemnify, hold harmless, and defend DTDM-Developer , its employees, agents and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of DTDM-developer's Software.
+3.4.1 - You will indemnify, hold harmless, and defend DTVPlayer-Developer , its employees, agents and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of DTVPlayer-developer's Software.
 
-3.4.2 - In no event (including, without limitation, in the event of negligence) will DTDM-Developer, its employees, agents or distributors be liable for any consequential, incidental, indirect, special or punitive damages whatsoever (including, without limitation, damages for loss of profits, loss of use, business interruption, loss of information or data, or pecuniary loss), in connection with or arising out of or related to this Agreement, DTVPlayer or the use or inability to use DTVPlayer or the furnishing, performance or use of any other matters hereunder whether based upon contract, tort or any other theory including negligence.
+3.4.2 - In no event (including, without limitation, in the event of negligence) will DTVPlayer-Developer, its employees, agents or distributors be liable for any consequential, incidental, indirect, special or punitive damages whatsoever (including, without limitation, damages for loss of profits, loss of use, business interruption, loss of information or data, or pecuniary loss), in connection with or arising out of or related to this Agreement, DTVPlayer or the use or inability to use DTVPlayer or the furnishing, performance or use of any other matters hereunder whether based upon contract, tort or any other theory including negligence.
 
 
-3.4.3 - DTDM-Developer's entire liability, without exception, is limited to the customers' reimbursement of the purchase price of the Software (maximum being the lesser of the amount paid by you and the suggested retail price as listed by DTDM-Developer) in exchange for the return of the product, all copies, registration papers and manuals, and all materials that constitute a transfer of license from the customer back to DTDM-Developer.
+3.4.3 - DTVPlayer-Developer's entire liability, without exception, is limited to the customers' reimbursement of the purchase price of the Software (maximum being the lesser of the amount paid by you and the suggested retail price as listed by DTVPlayer-Developer) in exchange for the return of the product, all copies, registration papers and manuals, and all materials that constitute a transfer of license from the customer back to DTVPlayer-Developer.
 
 3.5 Warranties
 
-Except as expressly stated in writing, DTDM-Developer makes no representation or warranties in respect of this Software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.
+Except as expressly stated in writing, DTVPlayer-Developer makes no representation or warranties in respect of this Software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.
 
 3.6 Governing Law
 
@@ -92,7 +92,7 @@ THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES
 
 5. CONSENT OF USE OF DATA
 
-You agree that DTDM-Developer may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to DTDM,  DTDM-Developer may also use this information to provide notices to you which may be of use or interest to you.
+You agree that DTVPlayer-Developer may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to DTVPlayer,  DTVPlayer-Developer may also use this information to provide notices to you which may be of use or interest to you.
 
 6. ABBREVIATION USED 
-DTVPlayer implies devtrip download manager download from http://www.devtrip.com or received from any other distribution partner. DTDM-Developer includes main programmer, developer, and creator [Kavindra Kumar Dubey]. For more information related to this EULA please email us at dtdm.app@gmail.com . 
+DTVPlayer implies devtrip download manager download from http://www.devtrip.com or received from any other distribution partner. DTVPlayer-Developer includes main programmer, developer, and creator [Kavindra Kumar Dubey]. For more information related to this EULA please email us at DTVPlayer.app@gmail.com . 
