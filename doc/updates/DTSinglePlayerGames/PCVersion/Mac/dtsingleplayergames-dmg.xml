@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.1.1</versionNumber>
+   <versionNumber>0.2.3</versionNumber>
    <url>https://github.com/jetendra/update/raw/master/doc/updates/DTSinglePlayerGames/PCVersion/Mac/DTSinglePlayerGames.dmg</url> 
    <description> 
 	<![CDATA[ 
-		* Updated to differentiate between resumable file formats and disable pause and save buttons accordingly with standalone+Queue download.
-		* Updated to remove the log/event tracking functionality without user permission..
-		* Implemented the error tracker externally with various states and functionalities.
-		* Added popup to ask to submit logs to tracking server..
-		* Updated access manager issue.
+		* Updated for cheat cases with path finder game.
+		* Updated for cheat cases with payment.
+		* Removed coming soon games.
 		* If an error occured while update, Please download the files directly from http://www.devtrip.com, and install.
 		]]>
 	</description> 
