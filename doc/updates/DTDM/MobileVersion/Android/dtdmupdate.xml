@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
    <versionNumber>0.9.4</versionNumber> 
-   <url>https://cdn.rawgit.com/jetendra/update/master/doc/updates/DTDM/MobileVersion/Android/DTDM.apk</url> 
+   <url>https://github.com/jetendra/update/raw/master/doc/updates/DTDM/MobileVersion/Android/DTDM.apk</url> 
    <description> 
 	<![CDATA[ 
 		* Updated to auto invoked on click of downloadable link.
