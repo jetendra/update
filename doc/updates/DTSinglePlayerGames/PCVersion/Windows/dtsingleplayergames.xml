@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
-   <versionNumber>0.2.6</versionNumber> 
+   <versionNumber>0.2.7</versionNumber> 
    <url>https://github.com/jetendra/update/raw/master/doc/updates/DTSinglePlayerGames/PCVersion/Windows/DTSinglePlayerGames.air</url> 
    <description> 
 	<![CDATA[ 
 		* Updated for cheat cases with path finder game.
 		* Removed coming soon games.
+		* Added payment option.
+		* Added support to login and register.
 		* If an error occured while update, Please download the files directly from http://www.devtrip.com, and install.
 		]]>
 	</description> 

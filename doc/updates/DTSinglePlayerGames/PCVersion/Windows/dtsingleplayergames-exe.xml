@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <update> 
-   <versionNumber>0.2.6</versionNumber> 
+   <versionNumber>0.2.7</versionNumber> 
    <url>https://github.com/jetendra/update/raw/master/doc/updates/DTSinglePlayerGames/PCVersion/Windows/DTSinglePlayerGames.exe</url> 
    <description> 
 	<![CDATA[ 
 		* Updated for cheat cases with path finder game.
-		* Updated for cheat cases with payment.
 		* Removed coming soon games.
+		* Added payment option.
+		* Added support to login and register.
 		* If an error occured while update, Please download the files directly from http://www.devtrip.com, and install.
 		]]>
 	</description> 
