@@ -1,0 +1,98 @@
+DTDevotional 
+© www.devtrip.com 2012-2019
+*** END USER LICENSE AGREEMENT ***
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+These terms are for DTDevotional application downloaded from the http://www.devtrip.com or from any other distributors/distribution-option.
+1. LICENSE
+
+1.1 - By receiving, opening the file package, and/or using DTDevotional ("Software") containing this software, you agree that this End User License Agreement (EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.
+
+1.2 - Unless you have a different license agreement signed by DTDevotional-Developer your use of DTDevotional indicates your acceptance of this license agreement and warranty.
+
+1.3 - Subject to the terms of this Agreement, DTDevotional-Developer grants to you a limited, non-exclusive, non-transferable license, without right to sub-license, to use DTDevotional in accordance with this Agreement and any other written agreement with DTDevotional-Developer. DTDevotional-Developer does not transfer the title of DTDevotional to you; the license granted to you is not a sale. This agreement is a binding legal agreement between DTDevotional-Developer and the purchasers or users of DTDevotional.
+
+1.4 - If you do not agree to be bound by this agreement, remove DTDevotional from your computer now and, if applicable, promptly return to DTDevotional-Developer by mail (@ - devtrip.dev@gmail.com) any copies of DTDevotional and related documentation and packaging in your possession.
+
+1.5 - By using DTDevotional application installers available at http://www.devtrip.com or from any other distribution, you are agreeing to this term of use ( EULA ).
+
+
+2. DISTRIBUTION
+DTDevotional and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred or sub-licensed in whole or in part except that you may make one copy for archive purposes only. For information about redistribution of DTDevotional contact DTDevotional-Developer by mail (@ - devtrip.dev@gmail.com).
+3. USER AGREEMENT
+3.1 - Use
+
+3.1.1 - Your license to use DTDevotional is limited to the number of licenses purchased by you. You shall not allow others to - use, copy or evaluate copies of DTDevotional.
+
+3.1.2 - DTDevotional application is licensed on per person, per platform and per device basis. Each user and each platform/device agreeing term mentioned in this document. 
+
+3.1.3 - You are responsible for your use of the software, for any content you download, and for any consequences thereof. It is your responsibility to make sure your use of the application is legal. 
+
+3.1.5 - Software developers, distributors or associated contributors are not responsible for any loss due to downloading, installing or using DTDevotional application.
+
+3.1.6 - DTDevotional application is always evolving and the form and nature of the application    may change from time to time without prior notice to you. In addition, DTDevotional application may stop (permanently or temporarily) providing the functionality (or any features within the functionality) to you and may not be able to provide you with prior notice. We may modify, update, or discontinue the application (including any of their portions or features) at any time without liability to you or anyone else. We also retain the right to create limits on use at our sole discretion at any time without prior notice to you.
+
+
+3.1.7 - You must pay any applicable taxes, and any applicable third-party fee (including, for example ISP charges, data plan charges, credit card fees, foreign exchange fees, etc). We are not responsible for these fees. We may take steps to collect the fees you owe us. You are responsible for all related collection costs and expenses.
+
+3.1.8 - You may stop using the application at any time; un-installation of application does not relieve you of any obligation to pay any outstanding fees.
+
+3.1.9 - This application has an inbuilt tracking (removed in version 0.5.5) and error management module which will/may submit content of application to a third party server, by asking the user for submit permission, and the distributor is not responsible for any use of this type of content.
+
+3.1.10 - All legal activities related to this application will be executed in Delhi (India) area of Judiciary.
+
+3.1.11 - At any level the decision of application owner is final.
+
+3.1.12 - These Terms are the entire and exclusive agreement between DTDevotional-Developer and its DTDevotional application user and these terms supersede and replace any prior agreements between DTDevotional-Developer and DTDevotional application users.
+
+3.1.13 – DTDevotional-Developer may revise these terms from time to time; the most current version will always be available at same download location. And any other previous agreement of use, superseded by the content of this document.
+
+3.1.14 - DTDevotional application are maintained and powered by devtrip.com developers and contributors. If you have any questions about these terms, please contact us at devtrip.dev@gmail.com 
+
+
+3.2 Use Restrictions
+
+3.2.1 - You shall use DTDevotional in compliance with all applicable laws and not for any unlawful purpose. Without limiting the foregoing, use, display or distribution of DTDevotional together with material that is pornographic, racist, vulgar, obscene, defamatory, libellous, abusive, promoting hatred, discriminating or displaying prejudice based on religion, ethnic heritage, race, sexual orientation or age is strictly prohibited.
+
+3.2.2 - Each licensed copy of DTDevotional may be used on one single computer location by one user. Use of DTDevotional means that you have loaded, installed, or run DTDevotional on a computer or similar device. If you install DTDevotional onto a multi-user platform, server or network, each and every individual user of DTDevotional must be licensed separately.
+
+3.2.3 - You may make one copy of DTDevotional for backup purposes, providing you only have one copy installed on one computer being used by one person. Other users may not use your copy of DTDevotional. The assignment, sublicense, networking, sale, or distribution of copies of DTDevotional is strictly forbidden, without the prior written consent of DTDevotional-Developer. It is a violation of this agreement to assign, sell, share, loan, rent, lease, borrow, network or transfer the use of DTDevotional. If any person other than yourself uses DTDevotional registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated and you are responsible for that violation!
+
+3.3 Copyright Restriction
+
+3.3.1 - This Software contains copyrighted material, trade secrets and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble or decompile DTDevotional. Nor can you create any derivative works or other works that are based upon or derived from DTDevotional in whole or in part.
+
+3.3.2 - DTDevotional-Developer name, logo and graphics file that represents DTDevotional shall not be used in any way to promote products developed with DTDevotional. DTDevotional-Developer retains sole and exclusive ownership of all right, title and interest in and to DTDevotional and all Intellectual Property rights relating thereto.
+
+3.3.3 - Copyright law and international copyright treaty provisions protect all parts of DTDevotional, products and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Kavindra Kumar Dubey.
+
+3.4 Limitation of Responsibility
+
+3.4.1 - You will indemnify, hold harmless, and defend DTDevotional-Developer , its employees, agents and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of DTDevotional-developer's Software.
+
+3.4.2 - In no event (including, without limitation, in the event of negligence) will DTDevotional-Developer, its employees, agents or distributors be liable for any consequential, incidental, indirect, special or punitive damages whatsoever (including, without limitation, damages for loss of profits, loss of use, business interruption, loss of information or data, or pecuniary loss), in connection with or arising out of or related to this Agreement, DTDevotional or the use or inability to use DTDevotional or the furnishing, performance or use of any other matters hereunder whether based upon contract, tort or any other theory including negligence.
+
+
+3.4.3 - DTDevotional-Developer's entire liability, without exception, is limited to the customers' reimbursement of the purchase price of the Software (maximum being the lesser of the amount paid by you and the suggested retail price as listed by DTDevotional-Developer) in exchange for the return of the product, all copies, registration papers and manuals, and all materials that constitute a transfer of license from the customer back to DTDevotional-Developer.
+
+3.5 Warranties
+
+Except as expressly stated in writing, DTDevotional-Developer makes no representation or warranties in respect of this Software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.
+
+3.6 Governing Law
+
+This Agreement shall be governed by the law of the India applicable therein. You hereby irrevocably attorney and submit to the non-exclusive jurisdiction of the courts of Dwarka, Delhi, India there from. If any provision shall be considered unlawful, void or otherwise unenforceable, then that provision shall be deemed severable from this License and not affect the validity and enforceability of any other provisions.
+
+3.7 Termination
+
+Any failure to comply with the terms and conditions of this Agreement will result in automatic and immediate termination of this license. Upon termination of this license granted herein for any reason, you agree to immediately cease use of DTDevotional and destroy all copies of DTDevotional supplied under this Agreement including archived copies. The financial obligations incurred by you shall survive the expiration or termination of this license.
+
+4. DISCLAIMER OF WARRANTY
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. THIS DISCLAIMER CONCERNS ALL FILES GENERATED AND EDITED BY DTDevotional AS WELL.
+
+5. CONSENT OF USE OF DATA
+
+You agree that DTDevotional-Developer may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to DTDevotional,  DTDevotional-Developer may also use this information to provide notices to you which may be of use or interest to you.
+
+6. ABBREVIATION USED 
+DTDevotional implies devtrip download manager download from http://www.devtrip.com or received from any other distribution partner. DTDevotional-Developer includes main programmer, developer, and creator [Kavindra Kumar Dubey]. For more information related to this EULA please email us at devtrip.dev@gmail.com . 
